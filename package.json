@@ -1,0 +1,12 @@
+{
+  "name": "cdn",
+  "description": "standalone node.js image cdn",
+  "author": "Rob McVey",
+  "dependencies": {
+	  "express": ">= 3.4",
+	  "easyimage": ">= 0.1.6",
+		"request": ">= 2.34",
+		"mime": ">= 1.2"
+	},
+  "engine": "node 0.10.24"
+}
